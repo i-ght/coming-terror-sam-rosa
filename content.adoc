@@ -1,17 +1,17 @@
-
+= The Coming Terror; Or, The Australian Revolution
+S. A. Rosa, 1895
 :doctype: book
 
-image::cover.webp[Book cover that shows a bank on fire. Commoners fighting authority in streets]
+image::cover.png[Book cover that shows a bank on fire. Commoners fighting authority in streets]
 
-= The Coming Terror; Or, The Australian Revolution
+ifdef::backend-pdf[]
+:title-logo-image: image:cover.png[Book cover that shows a bank on fire. Commoners fighting authority in streets]
+endif::[]
 
-== By: S. A. Rosa, 1895
-
-"If there be any law that makes many poor to make one
-
+"If there be any law that makes many poor to make one +
 rich, that suits not a commonwealth" -Oliver Cromwell
 
-=== CHAPTER I: THE ATTACK ON THE BANK
+== CHAPTER I: THE ATTACK ON THE BANK
 
 Crash! Crash!! Crash!!! went the falling timbers of the Austral Bank, while a furious and ferocious mob, drunken with wine and victory, shrieked, fought, and swore in front of the burning edifice. The features of the men and women who composed this mob, rendered savage by want, suffering, and oppression, were distorted by hate, the desire for vengeance and lust for destruction, while they were lit up by the huge fierce flames which issued from the rapidly perishing but once magnificent building.
 
@@ -27,7 +27,7 @@ The crowd then poured into the House, while a number of pale, panic-stricken leg
 
 —:o:—
 
-=== CHAPTER II: THE CAUSES OF THE INSURRECTION
+== CHAPTER II: THE CAUSES OF THE INSURRECTION
 
 After the statesmen of Australia had succeeded in bringing about the federation of the Australian states, the natural result was the formation of a large standing army, which, as our readers are aware, the Federal Government, from its headquarters at Albury, made ample use of as a valuable auxiliary in their determined maintenance of “law and order,” “freedom of contract,” and the right of the syndicates to employ men at as low a wage and as long hours as the necessities of the laboring people might compel them to accept. Boycotting, or any attempts on the part of strikers to interfere, even in the most peaceful way, with “free” or non-union laborers, were treated as overt acts of rebellion, and the strikers were promptly dragooned into submission. The result was that the various unions had been gradually broken up, and were succeeded by branches of a vast secret organisation known as “The Brotherhood of the Poor.” The ramifications of this association included all sections of workers, and even criminals and social outcasts were admitted to membership, it being a maxim of the Brotherhood that, the outcast being himself a victim of unjust and corrupt institutions and laws, his aid would, on occasion, be of greater value than that of those who had not been strengthened and sharpened by the Ishmael-like life of the outcast.
 
@@ -45,7 +45,7 @@ On a certain day of the year in which our story opens, a mass meeting of the une
 
 —:o:—
 
-=== CHAPTER III: THE GENERAL STRIKE
+== CHAPTER III: THE GENERAL STRIKE
 
 AT the conclusion of the first Chapter Oliver Spence was left master of the situation in Parliament house, declaring that that house would henceforth be used as a revolutionary headquarters. This declaration seemed to be taken as a matter of course by his followers, and, calling for the keys, Oliver, having obtained them, locked up the House, and—first, placing a strong guard at the various entrances proceeded, accompanied by a number of his adherents, to the old headquarters of the Council of the Brotherhood, the rest of the insurgent multitude having in the meantime, under the skilful direction of members of the Brotherhood, taken possession of the principle Government buildings and other places of importance in the city.
 
@@ -86,7 +86,7 @@ The Revolutionary Committee also strengthened its hands tremendously at this per
 
 —:o:—
 
-=== CHAPTER IV: OLIVER SPENCE, DICTATOR
+== CHAPTER IV: OLIVER SPENCE, DICTATOR
 
 On the first Monday after the issue of the General Strike Manifesto, a National Convention of delegates from all parts of Australia was held in the Parliament House, Macquarie Street, Sydney. The delegates had been elected by meetings convened by local sections of the Brotherhood of the Poor, which had now ceased to be a secret organisation. Each delegate having solemnly declared his fidelity to the cause of the People, the Convention was declared open by Oliver Spence, who then addressed it as follows:—
 
@@ -148,7 +148,7 @@ After the Convention had appointed committees for the purpose of re-modelling th
 
 —:o:—
 
-=== CHAPTER V: SAVED BY LOVE
+== CHAPTER V: SAVED BY LOVE
 
 It was moonlight. In the garret; of a house apparently inhabited by poor people, there might have been discovered a young woman, poorly dressed, but with a sweetness of face and beauty of form which it was impossible for the poverty of her dress to entirely hide. She was weeping silently, and her finely moulded bosom heaved convulsively as she thought of the possible dreadful fate of her lover. For she loved an insurgent, and with an intense and passionate devotion of which she had hitherto considered herself incapable. The hour was late, and though her lover had promised to, if alive, send her a message assuring her of his safety, the appointed hour had passed, but no word had been received from him whom she loved.
 
@@ -188,7 +188,7 @@ So saying she placed her hand in Oliver's arm, and the lovers hastened away in t
 
 —:o:—
 
-=== CHAPTER VI: THE GREAT BATTLE
+== CHAPTER VI: THE GREAT BATTLE
 
 After the collapse of the British Empire, which, as all students of history are aware, was chiefly occasioned by the Anglo-Russian war, in which the "Tsar of all the Russias" was completely victorious, and by the annexation of India extended his territory to the Indian Ocean, the Australian Colonies were formed into an independent Federal Republic. The method of government was still in theory democratic, although in practice plutocratic. There was a Federal Parliament, consisting of a House of Representatives and a Senate. Each Representative had a constituency of not less than thirty thousand electors, which no one but a rich man or a tool of the financial rings ever attempted to "represent," for not only did it require considerable money to contest such a large electorate, but it was generally believed that the ballot had ceased to be secret and there was so much fraud exercised at elections by the agents of the financial rings that it was regarded as quite impossible to return pure democrats to power. Of the two branches of the legislature, however, the more oligarchic was the Senate, which consisted of eight men from each of the State Parliaments. These men were, of course, actually appointed by the rings, and in the Senate were, after the rings, the most powerful in Australia. They retired from office by rotation, so that there was never a general election, nor had the President of the so-called Republic, power to dissolve the Senate. It had a veto over all bills passed by the "Representatives," was secure by the nature ofits constitution from any possibility of its being influenced by the masses (termed by the Senators "the swinish multitude"), and was defended by a powerful army and well-equipped navy. The army and navy had been originally formed for the ostensible purpose of protecting life and property from a possible Russian or Chinese invasion, but it was soon evident that the greatest danger to the Australian plutocracy was "from within, not from without," and consequently for the purpose of stamping out anything like incipient revolt, the army and navy became very useful to their employers.
 
@@ -226,7 +226,7 @@ War is a dreadful thing, but is sometimes as necessary to save and secure the li
 
 —:o:—
 
-=== CHAPTER VII: FREE LAND, CHEAP MONEY, AND “CONFISCATION.”
+== CHAPTER VII: FREE LAND, CHEAP MONEY, AND “CONFISCATION.”
 
 Oliver returned to Sydney, the undisputed and supreme ruler of all Australia. The people regarded him a a hero, and he was treated as one. Vast triumphal arches covered with laudatory mottos and inscriptions of welcome decorated the principal streets. Everyone smiled on him, everyone rushed to shake him by the hand. It was even proposed to offer him a throne and crown him king of Australia. But for such gee-gaws Oliver had no mind, and so in no unhesitating fashion, he informed his admirers. Until the expiration of his term of office he was the uncrowned "Tsar of all the Australia," and with that dignity he would rest content until the time came for him to resign his office into the hands of those who had elected him.
 
@@ -249,7 +249,7 @@ The Dictator crowned his acts of "confiscation" by declaring private property in
 
 —:o:—
 
-=== CHAPTER VIII: THE WEDDING
+== CHAPTER VIII: THE WEDDING
 
 The time now rapidly approached for the marriage of Oliver and Mary. Their lives, had been in the past, of a by no means monotonously happy character. Both of them had suffered, and suffered poignantly. Mary herself had been a member of the ruling class. She had been reared in luxury, and supplied with everything which wealth could provide for her. But although supplied with every possible luxury, she was not happy, for she craved for someone upon whom she could lavish the wealth of affection which constituted so great and important a part of her healthy, passionate nature. Possessed of the perfect and splendid form of a fully-developed beautiful woman, she was also the possessor of the intense emotionalism and perfect capacity for love, which is always the characteristic of the natural woman whose ardent feminality has not been diminished or destroyed by the indigence, or excessive luxury, which is a usual concomitant of high civilization.
 
@@ -271,7 +271,7 @@ At last all the guests had departed, and the newly-married couple, retired toget
 
 —:o:—
 
-=== CHAPTER IX: A NEW GOVERNMENT AND A DIALOGUE ON GOVERNMENT.
+== CHAPTER IX: A NEW GOVERNMENT AND A DIALOGUE ON GOVERNMENT.
 
 Our hero and heroine seemed to both become younger by their experience of the unalloyed happiness which followed their marriage. Their faces seemed softer and their eyes even kinder and gentler in expression. The honeymoon was, owing to Oliver Spence's position, necessarily a very short one, so that in a few weeks Oliver was again giving close personal attention to the State affairs of Australia. Mary was of great service to him by her advice and assistance. She particularly interested herself in the welfare of the weaker sex, and personally saw that the wish of the Dictator, that all women who desired employment, should, on receipt of their application be given suitable work, and paid the same wages as men should be effectively carried out, and the fact that all women in need of employment could at once go to the National Workshops, and, like the men, receive the employment for which their physical or mental organization best fitted them, did more in a few months to abolish the compulsory unchastity of prostitution than all the canting or prurient members of Social Purity societies, could, by their methods, have accomplished in some centuries. It also obviated the necessity of mercenary marriages, a most vile form of life-long prostitution, which the disciples of Social Purity, had quite ignored.
 
@@ -341,7 +341,7 @@ The Rulers thus having done all that it appeared to them possible to do by legis
 
 —:o:—
 
-=== CHAPTER XI: THE NEW GARDEN OF EDEN
+== CHAPTER XI: THE NEW GARDEN OF EDEN
 
 Upon the map of North America there for many years appeared the words, "Great American Desert," until there arose, in what was then the United States, but as our readers are aware is now a portion of the great American Empire, a man of singular proselytizing power, whose name was Joseph Smith. He asserted that the text of a book which he termed the "Book of Mormon," had been revealed to him by supernatural agency. Many thousands of people believed him and a new sect was formed called "The Church of Jesus Christ of Latter-Day Saints." The new church increased and multiplied, notwithstanding its uncomfortably long name. but its members, though many, were not popular, and in a few years the assassination of Joseph Smith, and other persecutions, caused these "Saints" to pack up their household gods and journey into the "Great American Desert," which they discovered to be not a desert, but a land of promise, which by their industry they shortly made to flow with milk and honey.
 
@@ -383,7 +383,7 @@ The natives refused to sell any part of their country, or to have anything to do
 
 —:o:—
 
-=== CHAPTER XII: WORK, AND LOVE, AND PARADISE
+== CHAPTER XII: WORK, AND LOVE, AND PARADISE
 
 It is twenty years after the demolition of the Austral Bank by the Revolutionists, under the leadership of Oliver Spence.
 
